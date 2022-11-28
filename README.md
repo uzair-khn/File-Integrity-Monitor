@@ -28,5 +28,10 @@ Another thing to be mentionedis check the paths if routes to the right path of c
                       - if modified, output the user who changed it.
                       
 ## Output of the File Integrity Monitoring
+![My Image](output/output1.png)
+![My Image](output/output2.png)
+![My Image](output/output3.png)
+![My Image](output/output4.png)
+
 
 

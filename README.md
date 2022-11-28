@@ -28,6 +28,6 @@ Another thing to be mentionedis check the paths if routes to the right path of c
                       - if modified, output the user who changed it.
                       
 ## Output of the File Integrity Monitoring
-<img src="output/output1.png" alt="Alt text" title="Optional title">
+<img src="https://github.com/uzair-khn/File-Integrity-Monitor/tree/main/output/output1.png" alt="Alt text" title="Optional title">
 
 
